@@ -1,0 +1,16 @@
+{
+  "updates": [
+    {
+      "datetime": "1789732800",
+      "filename": "aospa-calcite-unofficial-phone1-20260918.zip",
+      "url": "https://example.org/aospa-calcite-unofficial-phone1-20260918.zip",
+      "recovery_sha256": "619c399d0d335799ec83ad4ce75c4db66f858c87e34dfa8e50dbc6549a28ad67",
+      "size": "2253000000",
+      "build_type": "Unofficial",
+      "version": "Calcite",
+      "version_code": "21",
+      "android_spl": "2026-09-05",
+      "changelog_device": "Updated camera HAL, fixed fingerprint unlock after reboot"
+    }
+  ]
+}
